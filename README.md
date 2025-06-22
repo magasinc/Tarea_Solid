@@ -4,7 +4,7 @@ Reporte A, B
 ![TAREA SOLID_UML drawio](https://github.com/user-attachments/assets/d1b028de-cc8f-4a64-9634-b06b149e4991)
 DIAGRAMAS UML, UML CON FUNCIONALIDAD SOLID, DIAGRAMAS DE CASOS DE USO
 
-DIAGRAMAS DE SECUENCIA'\n'
+DIAGRAMAS DE SECUENCIA
 
 ![image](https://github.com/user-attachments/assets/da689594-10eb-43fa-b544-7f97a030b0a5)
 
